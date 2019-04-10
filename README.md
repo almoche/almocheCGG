@@ -52,6 +52,6 @@ RTX6GMdB6CUhUuNcmB7EDktYfst5fRqa18
 ## Contact information ##
 
  - [Discord](https://discord.gg/almoche)
- - [E-Mail:](coingainguru@protonmail.com)
+ - [E-Mail](coingainguru@protonmail.com)
  - [Website](https://coingain.guru)
  
