@@ -12,21 +12,21 @@ I am involved in blockchain space since 2014.
 
 ## Blockchain and Technical Experiences  ###
 
-- General
+# General #
 I love digitalization in general.
 It can make life much easier and also safe time of your life and for the most if you know how, it can also protect your privacy.
 But I have to say, that I haven´t learn anything technical.
 All I know is self educated and investigated on my own.
 So meanwhile I would say blockchain is a big part of my life. 
 
-- Blockchain Experiences
+# Blockchain Experiences #
 Started in 2014 with NXT (therefore also owning Ardor and Ignis, because never sold them).
 Became one of approx. 3300 XEM/NEM stakeholders.
 ICO participations (only some of all): Waves, Lisk, Komodo, Stratis and also where all of these blockchains come together - Pantos.
 I have mined ETH at the beginning
 And my newest project besides KMD-NN-Server Election is: owning 1 of 40 witness nodes sever of Crypviser (blockchain encrypted messenger available for Android and IOS on Graphene blockchain)
 
-- Off-topic Experiences
+# Off-topic Experiences #
 I have setted up a smarthome-server myself with raspberry over Apple (homebridge for DECT, ZigBee, Z-Wave and Wi-Fi)
 Therefto installed a router cascade with 2 Fritzboxes to secure my PCs
 I am owning several PC-Systems (Windows and Linux)
