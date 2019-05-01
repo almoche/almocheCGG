@@ -54,4 +54,5 @@ RTX6GMdB6CUhUuNcmB7EDktYfst5fRqa18
  - [Discord](https://discord.gg/almoche)
  - [E-Mail](coingainguru@protonmail.com)
  - [Website](https://coingain.guru)
+ - [Slack: @almocheCGG](https://join.slack.com/t/coingainguru/shared_invite/enQtNjI1MTcwNDk1NzM1LTFhNjRlM2Q1M2NlY2M0NTg5N2JhYmMzNWVmMTRhMWQ3MWJkYTMzZTk5ODY2NGJiMjY3MjZhZGFmYWU3YmQ4OGU)
  
